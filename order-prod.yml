@@ -1,0 +1,3 @@
+app:
+    name: eureka_server
+    url: http://www.hanyi.com/eureka/
